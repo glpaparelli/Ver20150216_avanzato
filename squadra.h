@@ -1,6 +1,6 @@
 #define NOME_MAXLEN 10
 
-struct squadra {
+struct  squadra {
     char nome[NOME_MAXLEN+1];
     int reti;
 };
